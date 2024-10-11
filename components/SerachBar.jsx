@@ -1,4 +1,4 @@
-import SelectManu from "./SelectManu";
+
 
 
 export default function SerachBar({setQuery}) {

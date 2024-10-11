@@ -1,5 +1,5 @@
-import { useContext, useEffect, useState } from "react";
-import { Link, useLocation, useOutletContext, useParams } from "react-router-dom";
+import {  useEffect, useState } from "react";
+import { Link, useLocation,  useParams } from "react-router-dom";
 import { useWindowSize } from "../hooks/useWindowSize";
 import { useTheme } from "../hooks/useTheme";
 import  "./infoCountry.css";
